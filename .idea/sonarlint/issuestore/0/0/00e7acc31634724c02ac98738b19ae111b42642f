@@ -1,0 +1,7 @@
+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Åçëπ8ÑÆæ¶±+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æø¬ô¯ˇˇˇˇ8ÑÆæ¶±+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ØµÜµ˙ˇˇˇˇ8ÑÆæ¶±+
+Üsquid:UselessImportCheck"]Remove this unused import 'org.springframework.transaction.event.TransactionalEventListener'.(‹èñÇ8øúæ¶±+
